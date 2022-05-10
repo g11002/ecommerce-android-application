@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "395610749800",
+    "firebase_url": "https://storedatainfirebase-4598b-default-rtdb.firebaseio.com",
+    "project_id": "storedatainfirebase-4598b",
+    "storage_bucket": "storedatainfirebase-4598b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395610749800:android:4bb920287083867e72b4dd",
+        "android_client_info": {
+          "package_name": "com.example.storedatainfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395610749800-6b3o1l3sqhlu042gcc4olkhvupd2nqrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBsMF3fMAbuQaoFqW-vDQnW09RO5IBHTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395610749800-6b3o1l3sqhlu042gcc4olkhvupd2nqrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395610749800:android:1fc4146a1f5b788372b4dd",
+        "android_client_info": {
+          "package_name": "com.rajendra.onlinedailygroceries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395610749800-6b3o1l3sqhlu042gcc4olkhvupd2nqrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBsMF3fMAbuQaoFqW-vDQnW09RO5IBHTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395610749800-6b3o1l3sqhlu042gcc4olkhvupd2nqrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
